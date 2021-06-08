@@ -10,7 +10,7 @@ questions = [
         }
     },
     {
-        "question": "I have fantacsy about being in a long term realtionship with the same sex",
+        "question": "I have fantasy about being in a long term relationship with the same sex",
         "effect": {
             "sex": 0,
             "gen": 0,
@@ -20,7 +20,7 @@ questions = [
         }
     },
     {
-        "question": "I have often wanted to be in a room with the same sex uncothed",
+        "question": "I have often wanted to be in a room with the same sex unclothed",
         "effect": {
             "sex": 0,
             "gen": 0,
@@ -30,7 +30,7 @@ questions = [
         }
     },
     {
-        "question": "I have often wanted to have sexual intercorse with the same sex",
+        "question": "I have often wanted to have sexual intercourse with the same sex",
         "effect": {
             "sex": 0,
             "gen": 0,
@@ -50,7 +50,7 @@ questions = [
         }
     },
     {
-        "question": "I have oftem wanted to be in a room with the uncothed oppiset sex",
+        "question": "I have oftem wanted to be in a room with the unclothed opposite sex",
         "effect": {
             "sex": 0,
             "gen": 0,
@@ -60,7 +60,7 @@ questions = [
         }
     },
     {
-        "question": "I have often felt sexual attraction to the oppiset sex",
+        "question": "I have often felt sexual attraction to the opposite sex",
         "effect": {
             "sex": 0,
             "gen": 0,
@@ -70,7 +70,7 @@ questions = [
         }
     },
     {
-        "question": "I have often wanted to have sexual intercorse with the oppaset sex",
+        "question": "I have often wanted to have sexual intercourse with the opposite sex",
         "effect": {
             "sex": 0,
             "gen": 0,
@@ -80,7 +80,7 @@ questions = [
         }
     },
     {
-        "question": "I have often felt romantic attartion to the oppiset sex",
+        "question": "I have often felt romantic attraction to the opposite sex",
         "effect": {
             "sex": 0,
             "gen": 0,
@@ -90,7 +90,7 @@ questions = [
         }
     },
     {
-        "question": "I have often have fantacsy about being in a long term realtionship with the oppiset sex",
+        "question": "I have often have fantasy about being in a long term relationship with the opposite sex",
         "effect": {
             "sex": 0,
             "gen": 0,
@@ -100,7 +100,7 @@ questions = [
         }
     },
     {
-        "question": "I have often felt that i am the oppiset gender.",
+        "question": "I have often felt that I am the opposite gender.",
         "effect": {
             "sex": 0,
             "gen": -10,
@@ -110,7 +110,7 @@ questions = [
         }
     },
     {
-        "question": "I often want to dress up as the oppiset gender because i feel as if i am one.",
+        "question": "I often want to dress up as the opposite gender because I feel as if i am one.",
         "effect": {
             "sex": 0,
             "gen": -10,
@@ -120,7 +120,7 @@ questions = [
         }
     },
     {
-        "question": "Most times I have not felt confterable being the gender i was assined at birth",
+        "question": "Most times I have not felt comfortable being the gender I was assigned at birth",
         "effect": {
             "sex": 0,
             "gen": -10,
@@ -130,7 +130,7 @@ questions = [
         }
     },
     {
-        "question": "I have often have fantacys/dreams where i am the oppiset sex",
+        "question": "I have often have fantacys/dreams where i am the opposite sex",
         "effect": {
             "sex": 0,
             "gen": 10,
@@ -140,7 +140,7 @@ questions = [
         }
     },
     {
-        "question": "I want to change my name to a name that is of the oppiset sex",
+        "question": "I want to change my name to a name that is of the opposite sex",
         "effect": {
             "sex": 0,
             "gen": 0,
@@ -150,7 +150,7 @@ questions = [
         }
     },
     {
-        "question": "I have often felt that i am the smae gender i was assigend.",
+        "question": "I have often felt that I am the same gender I was assigned.",
         "effect": {
             "sex": 0,
             "gen": 10,
@@ -160,7 +160,7 @@ questions = [
         }
     },
     {
-        "question": "I have fantasy/dreams where i am the same sex",
+        "question": "I have fantasy/dreams where I am the same sex",
         "effect": {
             "sex": 0,
             "gen": 10,
@@ -170,7 +170,7 @@ questions = [
         }
     },
     {
-        "question": "Most times I have felt confterable being the gender i was assined at birth",
+        "question": "Most times I have felt comfortable being the gender I was assigned at birth",
         "effect": {
             "sex": 0,
             "gen": 10,
@@ -180,7 +180,7 @@ questions = [
         }
     },
     {
-        "question": "I do not want to change to a name of the oppiset gender",
+        "question": "I do not want to change to a name of the opposite gender",
         "effect": {
             "sex": 0,
             "gen": 10,
@@ -190,7 +190,7 @@ questions = [
         }
     },
     {
-        "question": "I often if not all the to dress up as the same gender because i feel as if i am one.",
+        "question": "I often if not all the to dress up as the same gender because I feel as if I am one.",
         "effect": {
             "sex": 0,
             "gen": 0,
@@ -210,7 +210,7 @@ questions = [
         }
     },
     {
-        "question": "I am conserder a person of color",
+        "question": "I am considered a person of color",
         "effect": {
             "sex": 0,
             "gen": 0,
@@ -230,7 +230,7 @@ questions = [
         }
     },
     {
-        "question": "I have kinda skin",
+        "question": "I have fair skin",
         "effect": {
             "sex": 0,
             "gen": 0,
@@ -260,7 +260,7 @@ questions = [
         }
     },
     {
-        "question": "I am conserder a white person",
+        "question": "I am considered a white person",
         "effect": {
             "sex": 0,
             "gen": 0,
@@ -330,7 +330,7 @@ questions = [
         }
     },
     {
-        "question": "I have romantic attraction to both sexs.",
+        "question": "I have romantic attraction to both sexes.",
         "effect": {
             "sex": 0,
             "gen": 0,
@@ -340,7 +340,7 @@ questions = [
         }
     },
     {
-        "question": "I have fansasy where i am in a long term reationship with both sexise",
+        "question": "I have fantasy where I am in a long term reationship with both sexes.",
         "effect": {
             "sex": 0,
             "gen": 0,
@@ -360,7 +360,7 @@ questions = [
         }
     },
     {
-        "question": "I wanted to be in a room where both sexes are nakied",
+        "question": "I wanted to be in a room where both sexes are naked.",
         "effect": {
             "sex": 0,
             "gen": 0,
@@ -370,7 +370,7 @@ questions = [
         }
     },
     {
-        "question": "I wanted to have sexual intercourse with both sexes",
+        "question": "I have wanted to have sexual intercourse with both sexes.",
         "effect": {
             "sex": 0,
             "gen": 0,
@@ -380,7 +380,7 @@ questions = [
         }
     },
     {
-        "question": "I have never felt sexual attraction to any sexes",
+        "question": "I have never felt sexual attraction to any sex.",
         "effect": {
             "sex": 0,
             "gen": 0,
@@ -390,7 +390,7 @@ questions = [
         }
     },
     {
-        "question": "I have never felt romantic attraction to any sexes",
+        "question": "I have never felt romantic attraction to any sexes.",
         "effect": {
             "sex": 0,
             "gen": 0,
@@ -400,7 +400,7 @@ questions = [
         }
     },
     {
-        "question": "I have never wanted sexual intercorse with any sex",
+        "question": "I have never wanted sexual intercorse with any sex.",
         "effect": {
             "sex": 0,
             "gen": 0,
@@ -410,7 +410,7 @@ questions = [
         }
     },
     {
-        "question": "I have never wanted to be in a room with with any naked sex",
+        "question": "I have never wanted to be in a room with with any naked sex.",
         "effect": {
             "sex": 0,
             "gen": 0,
@@ -420,7 +420,7 @@ questions = [
         }
     },
     {
-        "question": "I never had fantasy about long term realtionship with any sex.",
+        "question": "I have never had fantasy about long term relationship with any sex.",
         "effect": {
             "sex": 0,
             "gen": 0,
