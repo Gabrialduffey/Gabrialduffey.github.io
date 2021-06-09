@@ -86,11 +86,11 @@
         let final_o2t = ort_array.reduce((a, b) => a + b, 0)
         let final_rac = rac_array.reduce((a, b) => a + b, 0)
         location.href = `results.html`
-            + `?e=${calc_score(final_econ,max_sex)}`
-            + `&d=${calc_score(final_dipl,max_gen)}`
-            + `&g=${calc_score(final_govt,max_ort)}`
-            + `&g=${calc_score(final_govt,max_o2t)}`
-            + `&s=${calc_score(final_scty,max_rac)}`
+            + `?s=${calc_score(final_sex,max_sex)}`
+            + `&g=${calc_score(final_gen,max_gen)}`
+            + `&o=${calc_score(final_ort,max_ort)}`
+            + `&t=${calc_score(final_o2t,max_o2t)}`
+            + `&r=${calc_score(final_rac,max_rac)}`
     }
 </script>
 </body>
