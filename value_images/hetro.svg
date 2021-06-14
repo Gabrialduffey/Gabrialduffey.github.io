@@ -12,7 +12,7 @@
    viewBox="0 0 52.916668 52.916666"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
    sodipodi:docname="hetro.svg">
   <defs
      id="defs2">
@@ -85,18 +85,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
+     inkscape:zoom="2.8616351"
      inkscape:cx="35.632342"
-     inkscape:cy="103.40193"
+     inkscape:cy="102.74548"
      inkscape:document-units="mm"
-     inkscape:current-layer="text5670"
+     inkscape:current-layer="g7408"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1440"
-     inkscape:window-height="837"
+     inkscape:window-width="1280"
+     inkscape:window-height="961"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -126,7 +126,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -173,16 +173,7 @@
                    aria-label="MAN"
                    transform="translate(-57.370011,-20.890198)"
                    id="text5670"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;white-space:pre;shape-inside:url(#rect5672);fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.11667;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers">
-                  <text
-                     xml:space="preserve"
-                     id="text925"
-                     style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect927);fill:#ffffff;fill-opacity:1;stroke:none;"
-                     transform="translate(24.145447,-6.8017685)"><tspan
-                       x="-22.128066"
-                       y="48.300407"><tspan
-                         style="fill:#ffffff">Hetro</tspan></tspan></text>
-                </g>
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;white-space:pre;shape-inside:url(#rect5672);fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.11667;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
                 <g
                    id="g850"
                    transform="matrix(0.49927329,0,0,0.49927329,-60.011356,-0.72715114)"
@@ -222,6 +213,17 @@
                      id="path6-7"
                      style="fill:#222222;fill-opacity:1;stroke-width:0.0978358" />
                 </g>
+                <text
+                   xml:space="preserve"
+                   style="font-weight:bold;font-size:5.29167px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';stroke-width:0.125677"
+                   x="-58.887299"
+                   y="20.648489"
+                   id="text92"><tspan
+                     sodipodi:role="line"
+                     id="tspan90"
+                     x="-58.887299"
+                     y="20.648489"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke-width:0.125677">HETERO</tspan></text>
               </g>
             </g>
           </g>
