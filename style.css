@@ -166,33 +166,46 @@ div.man {
     text-align: right;
     border-left-style: solid;
 }
-div.liberty {
-    background-color: #ffeb3b;
+div.Hetro {
+    background-color: #8f8eed;
     text-align: left;
     border-right-style: solid;
 }
-div.authority {
-    background-color: #3f51b5;
+div.Homo {
+    background-color: #0aff89;
     text-align: right;
     border-left-style: solid;
 }
-div.peace {
-    background-color: #03a9f4;
+div.cis {
+    background-color: #8f8eed;
     text-align: right;
     border-left-style: solid;
 }
-div.might {
-    background-color: #ff9800;
+div.Trans {
+    background-color: #d89dff;
+    text-align: left;
+    border-right-style: solid;
+
+}
+div.Ace {
+    background-color: #dda918;
+    text-align: right;
+    border-left-style: solid;
+
+}
+div.Bi {
+    background-color: #8c4799;
     text-align: left;
     border-right-style: solid;
 }
-div.progress {
-    background-color: #9c27b0;
+div.White {
+    background-color: #ffffff;
     text-align: right;
     border-left-style: solid;
+
 }
-div.tradition {
-    background-color: #8bc34a;
+div.Black {
+    background-color: #000000;
     text-align: left;
     border-right-style: solid;
 }
